@@ -1,2 +1,0 @@
-# predictions-mvc
-# predictions-mvc
